@@ -5,16 +5,16 @@ This project involves performing SQL-based analysis on the Netflix dataset to ex
 The analysis is implemented using **MySQL queries**.
 
 ---
-# Screenshot 1
+# Distribution of release_year
 ![Netflix Dataset Analysis Screenshot](https://github.com/Jayesh-dev-glitch/Netflix-Dataset-Analysis-in-SQL/blob/main/Screenshot%202025-07-23%20133844.png)
 
-# Screenshot 2
+# Top 10 Most Common Directors
 ![Netflix Dataset Analysis Screenshot 2](https://github.com/Jayesh-dev-glitch/Netflix-Dataset-Analysis-in-SQL/blob/main/Screenshot%202025-07-23%20133858.png)
 
-# Screenshot 3
+# Top 10 Countries
 ![Netflix Dataset Analysis Screenshot 3](https://github.com/Jayesh-dev-glitch/Netflix-Dataset-Analysis-in-SQL/blob/main/Screenshot%202025-07-23%20133917.png)
 
-# Screenshot 4
+# Find records which have seasons
 ![Netflix Dataset Analysis Screenshot 4](https://github.com/Jayesh-dev-glitch/Netflix-Dataset-Analysis-in-SQL/blob/main/Screenshot%202025-07-23%20134000.png)
 
 ## 📂 Dataset
