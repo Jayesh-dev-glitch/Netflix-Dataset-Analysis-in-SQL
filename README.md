@@ -5,7 +5,10 @@ This project involves performing SQL-based analysis on the Netflix dataset to ex
 The analysis is implemented using **MySQL queries**.
 
 ---
+# Screenshot 1
+![Netflix Dataset Analysis Screenshot](https://github.com/Jayesh-dev-glitch/Netflix-Dataset-Analysis-in-SQL/blob/main/Screenshot%202025-07-23%20133844.png)
 
+# Screenshot 2
 
 
 ## 📂 Dataset
