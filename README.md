@@ -12,6 +12,9 @@ The analysis is implemented using **MySQL queries**.
 ![Netflix Dataset Analysis Screenshot 2](https://github.com/Jayesh-dev-glitch/Netflix-Dataset-Analysis-in-SQL/blob/main/Screenshot%202025-07-23%20133858.png)
 
 # Screenshot 3
+![Netflix Dataset Analysis Screenshot 3](https://github.com/Jayesh-dev-glitch/Netflix-Dataset-Analysis-in-SQL/blob/main/Screenshot%202025-07-23%20133917.png)
+
+# Screenshot 4
 
 
 ## 📂 Dataset
